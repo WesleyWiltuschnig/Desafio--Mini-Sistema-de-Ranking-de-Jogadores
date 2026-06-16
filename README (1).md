@@ -2,7 +2,7 @@
 
 ## Informações do Aluno
 
-- **Nome do aluno:** [Seu Nome Aqui]
+- **Nome do aluno:** Wesley Wiltuschnig
 - **Data:** 15/06/2026
 - **Disciplina:** Estrutura de Dados
 
